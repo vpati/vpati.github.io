@@ -13,11 +13,11 @@ at in the [Department of Computer Science](https://www.westmont.edu/computer-sci
 
 While working at UCSB, I have had the chance to work on some significant Projects.
 
- - Strategically move a data center whilest while contributing to ongoing research
+ - Strategically migrate a data center whilest while contributing to ongoing research
  - Socio-physical modeling at [waves lab](http://caylor.eri.ucsb.edu/){:target="_blank"}
  - Consult on a variety of projects at [ERI](https://eri.ucsb.edu){:target="_blank"}
- - Manage (Maintain, moderize and migrate) the campus enterprise resource planning tool during a major transition to a new backend
- - Build tooling around a migration to a centralized campus identity system
+ - Manage (Maintain, moderize and migrate) the campus enterprise resource planning tool during a major transition to a new financial backend
+ - Build tooling to anable migration to a centralized campus identity system
  - Automate the migration of student email to the cloud
  - Creating the new campus data center (building an emergency shutdown system based on environmental sensors)
 
