@@ -14,10 +14,10 @@ at in the [Department of Computer Science](https://www.westmont.edu/computer-sci
 While working at UCSB, I have had the chance to work on some significant Projects.
 
  - Strategically migrate a data center whilest while contributing to ongoing research
- - Socio-physical modeling at [waves lab](http://caylor.eri.ucsb.edu/)
+ - Socio-physical modeling with [Kelly Caylor](https://bren.ucsb.edu/people/kelly-caylor) at [waves lab](http://caylor.eri.ucsb.edu/)
  - Consult on a variety of projects at [ERI](https://eri.ucsb.edu) (such as implementing siesmic algorithms in python with [Jamison Steidl](https://www.eri.ucsb.edu/people/jamison-steidl) for [NEES](http://www.nees.ucsb.edu/) or modeling waves in the open ocean with [Tim DeVries](https://tdevries.eri.ucsb.edu/) and [Leonel Romero](https://leonelromero.com/)).
- - Manage (Maintain, moderize and migrate) the campus enterprise resource planning tool during a major transition to a new financial backend
- - Build tooling to anable migration to a centralized campus identity system
+ - Manage (Maintain, moderize and migrate) the campus enterprise resource planning tool during a major transition to a new financial backend.
+ - Build tooling to enable migration to a centralized campus identity system.
  - Automate the migration of student email to the cloud
  - Creating the new campus data center (building an emergency shutdown system based on environmental sensors)
 
