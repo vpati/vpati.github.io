@@ -21,5 +21,5 @@ While working at UCSB, I have had the chance to work on some significant Project
  - Automate the migration of student email to the cloud
  - Creating the new campus data center (building an emergency shutdown system based on environmental sensors)
 
-  I am passionate about learning and teaching. This semester I am teaching an upper division course on [Programming Languages](https://noah-de.github.io/CS105-F21/){:target="_blank"}.
+  I am passionate about learning and teaching. This semester I am teaching an upper division course on [Programming Languages](https://noah-de.github.io/CS105-F21/).
 
