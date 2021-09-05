@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: scroll
 ---
 Software/Network Engineer for the [Secure Computing Group (aka SecLab)](https://seclab.cs.ucsb.edu "SecLab"){:target="_blank"} at 
 [UCSB](https://www.ucsb.edu "University of California, Santa Barbara"){:target="_blank"}, part time lecturer 
