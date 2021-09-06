@@ -7794,7 +7794,8 @@ textarea.form-control-lg {
 
 .bg-primary {
   --bs-bg-opacity: 1;
-  background-color: rgba(var(--bs-primary-rgb), var(--bs-bg-opacity)) !important;
+  /*background-color: rgba(var(--bs-primary-rgb), var(--bs-bg-opacity)) !important;*/
+  background-color: oliveDrab !important;
 }
 
 .bg-secondary {
@@ -11283,6 +11284,6 @@ header {
 }
 
 section {
-  padding-top: 9rem;
-  padding-bottom: 9rem;
+  padding-top: 2rem;
+  padding-bottom: 2rem;
 }
