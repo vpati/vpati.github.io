@@ -11279,8 +11279,9 @@ html {
 }
 
 header {
-  padding-top: 9.5rem;
-  padding-bottom: 6rem;
+  height:4rem;
+#padding-top: 9.5rem;
+#padding-bottom: 6rem;
 }
 
 section {
