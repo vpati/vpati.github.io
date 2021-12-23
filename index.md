@@ -5,7 +5,7 @@ Software/Network Engineer for the [Secure Computing Group (aka SecLab)](https://
 [UCSB](https://www.ucsb.edu "University of California, Santa Barbara"){:target="_blank"}, part time lecturer 
 at in the [Department of Computer Science](https://www.westmont.edu/computer-science){:target="_blank"} at 
 [Westmont College](https://westmont.edu){:target="_blank"} and occasional contractor. 
-[Master of Science in Software Engineering](http://www.fullerton.edu/ecs/mse/){:target="_blank"} from 
+[Master of Science in Software Engineering](http://www.fullerton.edu/ecs/){:target="_blank"} from 
 [California State University, Fullerton](http://www.fullerton.edu/ecs/){:target="_blank"}. Bachelor of Science from 
 [Biola](https://www.biola.edu/){:target="_blank"}, and a certified 
 [Software Carpentries](https://software-carpentry.org/){:target="_blank"}
