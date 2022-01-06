@@ -6,7 +6,7 @@ env:
 on:
   push:
     branches:
-      - master
+      - anatole-theme
       
 
   # Allows you to run this workflow manually from the Actions tab
