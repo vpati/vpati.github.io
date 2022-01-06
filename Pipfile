@@ -1,0 +1,16 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+bibtexparser = "*"
+"jinja2" = "*"
+ipython = "*"
+awscli = "*"
+pandas = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.8"
